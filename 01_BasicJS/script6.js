@@ -13,6 +13,7 @@ function greeter() {
 greeter();
 console.log(greeting);
 
-let year = 'leap';
+
+let year = 'leap01';
 if (year === 'leap') greeting = 'Hey 366 days';
 console.log(greeting);
